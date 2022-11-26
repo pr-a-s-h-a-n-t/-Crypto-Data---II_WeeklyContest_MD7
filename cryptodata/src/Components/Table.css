@@ -1,0 +1,54 @@
+
+body{
+    background-color: black;
+    color: white;
+     
+    
+  }
+  .Table-header{
+    margin-top: 3%;
+    color: rgb(41, 13, 13);
+    text-align: center;
+    color: beige;
+    text-shadow: 2px 2px 8px greenyellow;
+    
+  
+  }
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+    margin: auto;
+    margin-top: 4%;
+    box-shadow: 2.5px 2.5px 2.5px 5px aqua ;
+     
+    
+  }
+  
+   
+  
+  td, th {
+     
+    border-bottom: 1px solid #dddddd;
+    text-align: left; 
+     padding: 8px;
+     
+  
+  }
+  
+  img {
+    width: 28px;
+    height: 28px;
+    margin-right: 8px;
+    
+  }
+  
+   
+  
+  #wrapper{
+    display: flex;
+    flex-direction: row;
+   
+    align-items: center;
+     
+  }
